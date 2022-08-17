@@ -1,8 +1,10 @@
 # Double-Vertical-Slider
 This is a cool looking responsive webpage made with help of Brad Traversy 50 days 50 projects cource 
+
 https://50projects50days.com
 
 Link to this webpage
+
 https://50projects50days.com/projects/double-vertical-slider/
 
 # Licence 
