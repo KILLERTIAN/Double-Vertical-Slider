@@ -7,6 +7,8 @@ Link to this webpage
 
 https://50projects50days.com/projects/double-vertical-slider/
 
+https://killertian.github.io/Double-Vertical-Slider/
+
 A preview of how Webpage actually looks
 
 ![image](https://user-images.githubusercontent.com/77867638/185458496-bc1d9d2a-6cf3-43d9-bb9a-f6610e44dadd.png)
