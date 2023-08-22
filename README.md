@@ -1,7 +1,7 @@
 # Double-Vertical-Slider
-This is a cool looking responsive webpage made with help of Brad Traversy 50 days 50 projects cource 
+This is a cool-looking responsive webpage made with the help of Brad Traversy 50 days 50 projects cource 
 
-https://50projects50days.com
+Course Link:- https://50projects50days.com
 
 Link to this webpage
 
